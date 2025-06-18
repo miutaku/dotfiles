@@ -1,0 +1,11 @@
+# Editors
+.idea
+.vscode
+.vs
+.fleet
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
