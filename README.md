@@ -10,9 +10,7 @@ xcode-select --install
 
 ## [HomeBrew](https://brew.sh/ja/)いれる
 
-```shell
-bash darwin/dotfiles.init.d/install_brew.sh
-```
+install.shしたときに`darwin/dotfiles.init.d/install_brew.sh`で導入がされるはずではある
 
 ## run
 
